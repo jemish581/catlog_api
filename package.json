@@ -1,0 +1,19 @@
+{
+  "name": "catlog_api",
+  "version": "1.0.0",
+  "description": "this is product calog api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jemish",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.5",
+    "node": "^18.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
